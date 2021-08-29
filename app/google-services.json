@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827474229327",
+    "project_id": "chat-assignment-for-alminds",
+    "storage_bucket": "chat-assignment-for-alminds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827474229327:android:435f7f250b9fe08390523a",
+        "android_client_info": {
+          "package_name": "com.mp.chatassignmentforalminds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827474229327-5hrgu6r0tbue6rrjmn33jgs8b4763qrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mp.chatassignmentforalminds",
+            "certificate_hash": "63dba06ad04006652376363e73266017c887767f"
+          }
+        },
+        {
+          "client_id": "827474229327-itlsh2babe2a2qah7ei03p6rhco8hrcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexyIThIlamnyXs7feZvPfA9Wt_2PwWNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827474229327-itlsh2babe2a2qah7ei03p6rhco8hrcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

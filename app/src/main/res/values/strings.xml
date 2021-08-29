@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat App</string>
+
+    <!-- [START fcm_default_icon_string] -->
+    <string name="default_notification_channel_name" translatable="true">Chat</string>
+    <!-- [END fcm_default_icon_string] -->
+    <string name="msg_subscribe_failed">Failed to subscribe to Chat room</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="topic_name">chat_room1</string>
+</resources>
